@@ -1,5 +1,6 @@
 # [Яндекс.Практикум Аналитик данных (Data Analyst)](https://praktikum.yandex.ru/data-analyst/)
 ## Мои учебные проекты
+(представлены в хронологическом порядке их выполнения на курсе)
 <hr>
 
 ### 1. <a href="https://github.com/OJhonny/Data-Analyst-Yandex.Practicum-/blob/74252172a3f958d4c9611b4a695f35b38f9873c8/Projects/1.%D0%98%D1%81%D1%81%D0%BB%D0%B5%D0%B4%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5%20%D0%BD%D0%B0%D0%B4%D0%B5%D0%B6%D0%BD%D0%BE%D1%81%D1%82%D0%B8%20%D0%B7%D0%B0%D0%B5%D0%BC%D1%89%D0%B8%D0%BA%D0%BE%D0%B2.ipynb" target="blank" rel="noreferrer">Исследование надежности заёмщиков</a>
