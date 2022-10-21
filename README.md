@@ -2,7 +2,7 @@
 ## Мои учебные проекты
 <hr>
 
-### <a href="https://github.com/OJhonny/Data-Analyst-Yandex.Practicum-/blob/main/Projects/%D0%90%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7%20AAB-%D1%82%D0%B5%D1%81%D1%82%D0%B0%20%D0%B8%20%D0%B2%D0%BE%D1%80%D0%BE%D0%BD%D0%BA%D0%B0%20%D1%81%D0%BE%D0%B1%D1%8B%D1%82%D0%B8%D0%B9%20%D0%B2%20%D0%BC%D0%BE%D0%B1%D0%B8%D0%BB%D1%8C%D0%BD%D0%BE%D0%BC%20%D0%BF%D1%80%D0%B8%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D0%B8.ipynb" target="blank">Анализ A/A/B-теста и воронка событий в мобильном приложении</a>
+### <a href="https://github.com/OJhonny/Data-Analyst-Yandex.Practicum-/blob/main/AB-testing_and_voronka_in_app/%D0%90%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7%20AAB-%D1%82%D0%B5%D1%81%D1%82%D0%B0%20%D0%B8%20%D0%B2%D0%BE%D1%80%D0%BE%D0%BD%D0%BA%D0%B0%20%D1%81%D0%BE%D0%B1%D1%8B%D1%82%D0%B8%D0%B9%20%D0%B2%20%D0%BC%D0%BE%D0%B1%D0%B8%D0%BB%D1%8C%D0%BD%D0%BE%D0%BC%20%D0%BF%D1%80%D0%B8%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D0%B8.ipynb" target="blank">Анализ A/A/B-теста и воронка событий в мобильном приложении</a>
 
 **Описание:**
 проект решает две задачи: 1. Изучить воронки событий, чтобы определить, какая часть пользователей остается на каждом этапе совершения покупок. 2. Проанализировать результаты A/A/B-теста, чтобы узнать, как изменение шрифта повлияло на поведение пользователей.
@@ -11,7 +11,7 @@
 `pandas, matplotlib.pyplot, seaborn, numpy, datetime, scipy.stats, seaborn, plotly`
 <hr>
 
-### <a href="https://github.com/OJhonny/Data-Analyst-Yandex.Practicum-/blob/main/Projects/%D0%9F%D0%B0%D1%80%D0%B0%D0%BC%D0%B5%D1%82%D1%80%D1%8B%20%D0%B4%D0%BB%D1%8F%20%D0%BE%D1%82%D0%BA%D1%80%D1%8B%D1%82%D0%B8%D1%8F%20%D0%BD%D0%BE%D0%B2%D0%BE%D0%B3%D0%BE%20%D0%BA%D0%B0%D1%84%D0%B5.ipynb" target="blank">Параметры для открытия нового кафе</a>
+### <a href="https://github.com/OJhonny/Data-Analyst-Yandex.Practicum-/blob/main/Parameters_opening_cafe/%D0%9F%D0%B0%D1%80%D0%B0%D0%BC%D0%B5%D1%82%D1%80%D1%8B%20%D0%B4%D0%BB%D1%8F%20%D0%BE%D1%82%D0%BA%D1%80%D1%8B%D1%82%D0%B8%D1%8F%20%D0%BD%D0%BE%D0%B2%D0%BE%D0%B3%D0%BE%20%D0%BA%D0%B0%D1%84%D0%B5.ipynb" target="blank">Параметры для открытия нового кафе</a>
 
 **Описание:**
 исследование рынка общественного питания в Москве, чтобы установить оптимальные параметры для открытия нового кафе.
@@ -20,7 +20,7 @@
 `pandas, matplotlib.pyplot, seaborn, numpy, datetime, BytesIO, requests`
 <hr>
 
-### <a href="https://github.com/OJhonny/Data-Analyst-Yandex.Practicum-/blob/main/Projects/%D0%9E%D0%BA%D1%83%D0%BF%D0%B0%D0%B5%D0%BC%D0%BE%D1%81%D1%82%D1%8C%20%D0%BF%D1%80%D0%B8%D0%B2%D0%BB%D0%B5%D1%87%D0%B5%D0%BD%D0%B8%D1%8F%20%D0%BF%D0%BE%D0%BB%D1%8C%D0%B7%D0%BE%D0%B2%D0%B0%D1%82%D0%B5%D0%BB%D0%B5%D0%B9%20%D0%BF%D1%80%D0%B8%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D1%8F.ipynb">Окупаемость привлечения пользователей приложения</a>
+### <a href="https://github.com/OJhonny/Data-Analyst-Yandex.Practicum-/blob/main/Payback_for_attracting_app_users/%D0%9E%D0%BA%D1%83%D0%BF%D0%B0%D0%B5%D0%BC%D0%BE%D1%81%D1%82%D1%8C%20%D0%BF%D1%80%D0%B8%D0%B2%D0%BB%D0%B5%D1%87%D0%B5%D0%BD%D0%B8%D1%8F%20%D0%BF%D0%BE%D0%BB%D1%8C%D0%B7%D0%BE%D0%B2%D0%B0%D1%82%D0%B5%D0%BB%D0%B5%D0%B9%20%D0%BF%D1%80%D0%B8%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D1%8F.ipynb">Окупаемость привлечения пользователей приложения</a>
 
 **Описание:**
 выяснить причины низкой окупаемости привлечения пользователей, чтобы повысить эффективность маркетинга приложения Procrastinate Pro. Расчет бизнес-метрик: Retention, LTV, CAC, ROMI.
@@ -57,7 +57,9 @@
 `pandas, matplotlib.pyplot, math, numpy`
 <hr>
 
-### <a href="https://github.com/OJhonny/Data-Analyst-Yandex.Practicum-/blob/main/Projects/%D0%90%D0%92%20%D1%82%D0%B5%D1%81%D1%82%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5%20%D0%B2%20%D0%B8%D0%BD%D1%82%D0%B5%D1%80%D0%BD%D0%B5%D1%82-%D0%BC%D0%B0%D0%B3%D0%B0%D0%B7%D0%B8%D0%BD%D0%B5.ipynb" target="blank">Анализ А/В-теста в интернет-магазине</a>
+### <a href="https://github.com/OJhonny/Data-Analyst-Yandex.Practicum-/blob/main/AB_testing_e-shop/%D0%90%D0%92%20%D1%82%D0%B5%D1%81%D1%82%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5%20%D0%B2%20%D0%B8%D0%BD%D1%82%D0%B5%D1%80%D0%BD%D0%B5%D1%82-%D0%BC%D0%B0%D0%B3%D0%B0%D0%B7%D0%B8%D0%BD%D0%B5.ipynb" target="blank">Анализ А/В-теста в интернет-магазине</a>
+
+https://github.com/OJhonny/Data-Analyst-Yandex.Practicum-/blob/main/AB_testing_e-shop/%D0%90%D0%92%20%D1%82%D0%B5%D1%81%D1%82%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5%20%D0%B2%20%D0%B8%D0%BD%D1%82%D0%B5%D1%80%D0%BD%D0%B5%D1%82-%D0%BC%D0%B0%D0%B3%D0%B0%D0%B7%D0%B8%D0%BD%D0%B5.ipynb
 
 **Описание:**
 провести приоритизацию гипотез по увеличению выручки и анализ A/B-теста, чтобы максимально повысить выручку интернет-магазина.
