@@ -76,7 +76,7 @@ https://github.com/OJhonny/Data-Analyst-Yandex.Practicum-/blob/main/AB_testing_e
 `sklearn, pandas, matplotlib.pyplot, seaborn, math, numpy, scipy.stats, datetime`
 <hr>
 
-### <a href="https://github.com/OJhonny/Data-Analyst-Yandex.Practicum-/blob/main/Projects/%D0%90%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7%20%D1%80%D0%B5%D0%B7%D1%83%D0%BB%D1%8C%D1%82%D0%B0%D1%82%D0%BE%D0%B2%20AB-%D1%82%D0%B5%D1%81%D1%82%D0%B0%20%D0%BD%D0%B0%20%D1%81%D0%B0%D0%B9%D1%82%D0%B5.ipynb" target="blank">Анализ результатов A/B-теста на сайте</a>
+### <a href="https://github.com/OJhonny/Data-Analyst-Yandex.Practicum-/blob/main/AB-test_on_web-site/%D0%90%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7%20%D1%80%D0%B5%D0%B7%D1%83%D0%BB%D1%8C%D1%82%D0%B0%D1%82%D0%BE%D0%B2%20AB-%D1%82%D0%B5%D1%81%D1%82%D0%B0%20%D0%BD%D0%B0%20%D1%81%D0%B0%D0%B9%D1%82%D0%B5.ipynb" target="blank">Анализ результатов A/B-теста на сайте</a>
 
 **Описание:**
 оценить корректность проведения и проанализировать результаты A/B-теста, чтобы проверить гипотезу об улучшении основных метрик сайта после внедрения апгрейденной рекомендательной системы.
@@ -85,7 +85,7 @@ https://github.com/OJhonny/Data-Analyst-Yandex.Practicum-/blob/main/AB_testing_e
 `pandas, matplotlib.pyplot, seaborn, numpy, datetime, scipy.stats, statsmodels, itertools`
 <hr>
 
-### <a href="https://github.com/OJhonny/Data-Analyst-Yandex.Practicum-/blob/main/Projects/%D0%9F%D0%B5%D1%80%D1%81%D0%BF%D0%B5%D0%BA%D1%82%D0%B8%D0%B2%D0%BD%D1%8B%D0%B9%20%D1%82%D0%B0%D1%80%D0%B8%D1%84%20%D0%BC%D0%BE%D0%B1%D0%B8%D0%BB%D1%8C%D0%BD%D0%BE%D0%B9%20%D1%81%D0%B2%D1%8F%D0%B7%D0%B8.ipynb" target="blank">Перспективный тариф мобильной связи</a>
+### <a href="https://github.com/OJhonny/Data-Analyst-Yandex.Practicum-/blob/main/Promising_mobile_communication_tariff/%D0%9F%D0%B5%D1%80%D1%81%D0%BF%D0%B5%D0%BA%D1%82%D0%B8%D0%B2%D0%BD%D1%8B%D0%B9%20%D1%82%D0%B0%D1%80%D0%B8%D1%84%20%D0%BC%D0%BE%D0%B1%D0%B8%D0%BB%D1%8C%D0%BD%D0%BE%D0%B9%20%D1%81%D0%B2%D1%8F%D0%B7%D0%B8.ipynb" target="blank">Перспективный тариф мобильной связи</a>
 
 **Описание:**
 определить какой из тарифов  мобильного оператора является более перспективным, изучив выручку и закономерности использования клиентами услуг.
@@ -94,7 +94,7 @@ https://github.com/OJhonny/Data-Analyst-Yandex.Practicum-/blob/main/AB_testing_e
 `pandas, matplotlib.pyplot, seaborn, math, numpy, scipy.stats`
 <hr>
 
-### <a href="https://github.com/OJhonny/Data-Analyst-Yandex.Practicum-/blob/main/Projects/%D0%9D%D0%B0%D0%B4%D0%B5%D0%B6%D0%BD%D0%BE%D1%81%D1%82%D1%8C%20%D0%B7%D0%B0%D0%B5%D0%BC%D1%89%D0%B8%D0%BA%D0%BE%D0%B2%20%D0%B1%D0%B0%D0%BD%D0%BA%D0%B0.ipynb" target="blank" rel="noreferrer">Надежность заемщиков банка</a>
+### <a href="https://github.com/OJhonny/Data-Analyst-Yandex.Practicum-/blob/main/Reliability_of_bank's_borrowers/%D0%9D%D0%B0%D0%B4%D0%B5%D0%B6%D0%BD%D0%BE%D1%81%D1%82%D1%8C%20%D0%B7%D0%B0%D0%B5%D0%BC%D1%89%D0%B8%D0%BA%D0%BE%D0%B2%20%D0%B1%D0%B0%D0%BD%D0%BA%D0%B0.ipynb" target="blank" rel="noreferrer">Надежность заемщиков банка</a>
 
 **Описание:**
 проанализировать связь семейного положения, количества детей в семье и других характеристик клиента с уровнем его надежности (возврат кредита в срок).
