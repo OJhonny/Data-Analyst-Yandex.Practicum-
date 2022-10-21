@@ -29,7 +29,7 @@
 `pandas, matplotlib.pyplot, seaborn, numpy, datetime`
 <hr>
 
-### <a href="https://github.com/OJhonny/Data-Analyst-Yandex.Practicum-/blob/main/Projects/%D0%9F%D0%B0%D1%80%D0%B0%D0%BC%D0%B5%D1%82%D1%80%D1%8B%20%D1%83%D1%81%D0%BF%D0%B5%D1%88%D0%BD%D0%BE%D0%B9%20%D0%B8%D0%B3%D1%80%D1%8B%20(%D1%81%D0%B1%D0%BE%D1%80%D0%BD%D1%8B%D0%B9%20%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82-1).%20.ipynb">Параметры успешной игры</a>
+### <a href="https://github.com/OJhonny/Data-Analyst-Yandex.Practicum-/blob/main/Parameters_successful_game/%D0%9F%D0%B0%D1%80%D0%B0%D0%BC%D0%B5%D1%82%D1%80%D1%8B%20%D1%83%D1%81%D0%BF%D0%B5%D1%88%D0%BD%D0%BE%D0%B9%20%D0%B8%D0%B3%D1%80%D1%8B.ipynb">Параметры успешной игры</a>
 
 **Описание:**
 выявить определяющие успешность компьютерной игры закономерности, чтобы помочь отделу маркетинга сделать ставку на потенциально популярный продукт и спланировать рекламные кампании.
@@ -38,7 +38,7 @@
 `pandas, matplotlib.pyplot, seaborn, numpy, scipy.stats`
 <hr>
 
-### <a href="https://github.com/OJhonny/Data-Analyst-Yandex.Practicum-/blob/main/Projects/%D0%92%D0%B5%D0%BD%D1%87%D1%83%D1%80%D0%BD%D1%8B%D0%B5%20%D1%84%D0%BE%D0%BD%D0%B4%D1%8B%20%D0%B8%20%D0%B8%D0%BD%D0%B2%D0%B5%D1%81%D1%82%D0%B8%D1%86%D0%B8%D0%B8%20%D0%B2%20%D0%BA%D0%BE%D0%BC%D0%BF%D0%B0%D0%BD%D0%B8%D0%B8-%D1%81%D1%82%D0%B0%D1%80%D1%82%D0%B0%D0%BF%D1%8B%20(%D0%BF%D0%BE%20SQL).ipynb" target="blank">Венчурные фонды и инвестиции в компании-стартапы (по SQL)</a>
+### <a href="https://github.com/OJhonny/Data-Analyst-Yandex.Practicum-/blob/main/Working_with_relational_database/%D0%A0%D0%B0%D0%B1%D0%BE%D1%82%D0%B0%20%D1%81%20%D1%80%D0%B5%D0%BB%D1%8F%D1%86%D0%B8%D0%BE%D0%BD%D0%BD%D0%BE%D0%B9%20%D0%B1%D0%B0%D0%B7%D0%BE%D0%B9%20%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D1%85%20%D0%BF%D0%BE%20%D0%B2%D0%B5%D0%BD%D1%87%D1%83%D1%80%D0%BD%D1%8B%D0%BC%20%D1%84%D0%BE%D0%BD%D0%B4%D0%B0%D0%BC.ipynb" target="blank">Работа с реляционной базой данных по венчурным фондам</a>
 
 **Описание:**
 проанализировать данные о фондах и инвестициях и написать запросы к базе.
@@ -47,8 +47,7 @@
 `postgreSQL`
 <hr>
 
-### <a href="https://github.com/OJhonny/Data-Analyst-Yandex.Practicum-/blob/main/Projects/%D0%9F%D0%B0%D1%80%D0%B0%D0%BC%D0%B5%D1%82%D1%80%D1%8B%20%D0%B4%D0%BB%D1%8F%20%D0%BE%D0%BF%D1%80%D0%B5%D0%B4%D0%B5%D0%BB%D0%B5%D0%BD%D0%B8%D1%8F%20%D1%80%D1%8B%D0%BD%D0%BE%D1%87%D0%BD%D0%BE%D0%B9%20%D1%81%D1%82%D0%BE%D0%B8%D0%BC%D0%BE%D1%81%D1%82%D0%B8%20%D0%BE%D0%B1%D1%8A%D0%B5%D0%BA%D1%82%D0%BE%D0%B2%20%D0%BD%D0%B5%D0%B4%D0%B2%D0%B8%D0%B6%D0%B8%D0%BC%D0%BE%D1%81%D1%82%D0%B8.ipynb" target="blank">Параметры для определения рыночной стоимости объектов недвижимости</a>
-
+### <a href="https://github.com/OJhonny/Data-Analyst-Yandex.Practicum-/blob/main/Market_value_of_real_estate/%D0%9F%D0%B0%D1%80%D0%B0%D0%BC%D0%B5%D1%82%D1%80%D1%8B%20%D0%B4%D0%BB%D1%8F%20%D0%BE%D0%BF%D1%80%D0%B5%D0%B4%D0%B5%D0%BB%D0%B5%D0%BD%D0%B8%D1%8F%20%D1%80%D1%8B%D0%BD%D0%BE%D1%87%D0%BD%D0%BE%D0%B9%20%D1%81%D1%82%D0%BE%D0%B8%D0%BC%D0%BE%D1%81%D1%82%D0%B8%20%D0%BE%D0%B1%D1%8A%D0%B5%D0%BA%D1%82%D0%BE%D0%B2%20%D0%BD%D0%B5%D0%B4%D0%B2%D0%B8%D0%B6%D0%B8%D0%BC%D0%BE%D1%81%D1%82%D0%B8.ipynb" target="blank">Параметры для определения рыночной стоимости объектов недвижимости</a>
 
 **Описание:**
 установить параметры для определения рыночной стоимости объектов недвижимости Санкт-Петербурга, чтобы в дальнейшем построить автоматизированную систему, которая отследит аномалии и мошенническую деятельность.
@@ -68,7 +67,7 @@ https://github.com/OJhonny/Data-Analyst-Yandex.Practicum-/blob/main/AB_testing_e
 `pandas, matplotlib.pyplot, seaborn, numpy, datetime, scipy.stats`
 <hr>
 
-### <a href="https://github.com/OJhonny/Data-Analyst-Yandex.Practicum-/blob/main/Projects/%D0%A3%D0%B4%D0%B5%D1%80%D0%B6%D0%B0%D0%BD%D0%B8%D0%B5%20%D0%BA%D0%BB%D0%B8%D0%B5%D0%BD%D1%82%D0%BE%D0%B2%20%D1%84%D0%B8%D1%82%D0%BD%D0%B5%D1%81-%D1%86%D0%B5%D0%BD%D1%82%D1%80%D0%B0%20(%D0%BC%D0%B0%D1%88%D0%B8%D0%BD%D0%BD%D0%BE%D0%B5%20%D0%BE%D0%B1%D1%83%D1%87%D0%B5%D0%BD%D0%B8%D0%B5)%20.ipynb" target="blank">Удержание клиентов фитнес-центра (машинное обучение) </a>
+### <a href="https://github.com/OJhonny/Data-Analyst-Yandex.Practicum-/blob/main/Fitness_center_customer_retention_(machine_learning)/%D0%A3%D0%B4%D0%B5%D1%80%D0%B6%D0%B0%D0%BD%D0%B8%D0%B5%20%D0%BA%D0%BB%D0%B8%D0%B5%D0%BD%D1%82%D0%BE%D0%B2%20%D1%84%D0%B8%D1%82%D0%BD%D0%B5%D1%81-%D1%86%D0%B5%D0%BD%D1%82%D1%80%D0%B0%20(%D0%BC%D0%B0%D1%88%D0%B8%D0%BD%D0%BD%D0%BE%D0%B5%20%D0%BE%D0%B1%D1%83%D1%87%D0%B5%D0%BD%D0%B8%D0%B5)%20.ipynb" target="blank">Удержание клиентов фитнес-центра (машинное обучение) </a>
 
 **Описание:**
 провести анализ анкет клиентов фитнес-центра и подготовить рекомендации по их удержанию.
