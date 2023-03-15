@@ -8,7 +8,7 @@
 проект решает две задачи: 1. Изучить воронки событий, чтобы определить, какая часть пользователей остается на каждом этапе совершения покупок. 2. Проанализировать результаты A/A/B-теста, чтобы узнать, как изменение шрифта повлияло на поведение пользователей.
 
 **Инструменты:**
-`pandas, matplotlib.pyplot, seaborn, numpy, datetime, scipy.stats, seaborn, plotly`
+`pandas, matplotlib.pyplot, seaborn, datetime, scipy.stats, seaborn, plotly`
 <hr>
 
 ### <a href="https://github.com/OJhonny/Data-Analyst-Yandex.Practicum-/blob/main/Parameters_opening_cafe/%D0%9F%D0%B0%D1%80%D0%B0%D0%BC%D0%B5%D1%82%D1%80%D1%8B%20%D0%B4%D0%BB%D1%8F%20%D0%BE%D1%82%D0%BA%D1%80%D1%8B%D1%82%D0%B8%D1%8F%20%D0%BD%D0%BE%D0%B2%D0%BE%D0%B3%D0%BE%20%D0%BA%D0%B0%D1%84%D0%B5.ipynb" target="blank">Параметры для открытия нового кафе</a>
@@ -17,7 +17,7 @@
 исследование рынка общественного питания в Москве, чтобы установить оптимальные параметры для открытия нового кафе.
 
 **Инструменты:**
-`pandas, matplotlib.pyplot, seaborn, numpy, datetime, BytesIO, requests`
+`pandas, matplotlib.pyplot, seaborn, datetime, BytesIO, requests`
 <hr>
 
 ### <a href="https://github.com/OJhonny/Data-Analyst-Yandex.Practicum-/blob/main/Payback_for_attracting_app_users/%D0%9E%D0%BA%D1%83%D0%BF%D0%B0%D0%B5%D0%BC%D0%BE%D1%81%D1%82%D1%8C%20%D0%BF%D1%80%D0%B8%D0%B2%D0%BB%D0%B5%D1%87%D0%B5%D0%BD%D0%B8%D1%8F%20%D0%BF%D0%BE%D0%BB%D1%8C%D0%B7%D0%BE%D0%B2%D0%B0%D1%82%D0%B5%D0%BB%D0%B5%D0%B9%20%D0%BF%D1%80%D0%B8%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D1%8F.ipynb">Окупаемость привлечения пользователей приложения</a>
@@ -53,7 +53,7 @@
 установить параметры для определения рыночной стоимости объектов недвижимости Санкт-Петербурга, чтобы в дальнейшем построить автоматизированную систему, которая отследит аномалии и мошенническую деятельность.
 
 **Инструменты:**
-`pandas, matplotlib.pyplot, math, numpy`
+`pandas, matplotlib.pyplot, seaborn
 <hr>
 
 ### <a href="https://github.com/OJhonny/Data-Analyst-Yandex.Practicum-/blob/main/AB_testing_e-shop/%D0%90%D0%92%20%D1%82%D0%B5%D1%81%D1%82%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5%20%D0%B2%20%D0%B8%D0%BD%D1%82%D0%B5%D1%80%D0%BD%D0%B5%D1%82-%D0%BC%D0%B0%D0%B3%D0%B0%D0%B7%D0%B8%D0%BD%D0%B5.ipynb" target="blank">Анализ А/В-теста в интернет-магазине</a>
@@ -71,7 +71,7 @@
 провести анализ анкет клиентов фитнес-центра и подготовить рекомендации по их удержанию.
 
 **Инструменты:**
-`sklearn, pandas, matplotlib.pyplot, seaborn, math, numpy, scipy.stats, datetime`
+`sklearn, pandas, matplotlib.pyplot, seaborn, math, scipy.stats, datetime`
 <hr>
 
 ### <a href="https://github.com/OJhonny/Data-Analyst-Yandex.Practicum-/blob/main/AB-test_on_web-site/%D0%90%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7%20%D1%80%D0%B5%D0%B7%D1%83%D0%BB%D1%8C%D1%82%D0%B0%D1%82%D0%BE%D0%B2%20AB-%D1%82%D0%B5%D1%81%D1%82%D0%B0%20%D0%BD%D0%B0%20%D1%81%D0%B0%D0%B9%D1%82%D0%B5.ipynb" target="blank">Анализ результатов A/B-теста на сайте</a>
@@ -80,7 +80,7 @@
 оценить корректность проведения и проанализировать результаты A/B-теста, чтобы проверить гипотезу об улучшении основных метрик сайта после внедрения апгрейденной рекомендательной системы.
 
 **Инструменты:**
-`pandas, matplotlib.pyplot, seaborn, numpy, datetime, scipy.stats, statsmodels, itertools`
+`pandas, matplotlib.pyplot, seaborn, datetime, scipy.stats, statsmodels, itertools`
 <hr>
 
 ### <a href="https://github.com/OJhonny/Data-Analyst-Yandex.Practicum-/blob/main/Promising_mobile_communication_tariff/%D0%9F%D0%B5%D1%80%D1%81%D0%BF%D0%B5%D0%BA%D1%82%D0%B8%D0%B2%D0%BD%D1%8B%D0%B9%20%D1%82%D0%B0%D1%80%D0%B8%D1%84%20%D0%BC%D0%BE%D0%B1%D0%B8%D0%BB%D1%8C%D0%BD%D0%BE%D0%B9%20%D1%81%D0%B2%D1%8F%D0%B7%D0%B8.ipynb" target="blank">Перспективный тариф мобильной связи</a>
